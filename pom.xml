@@ -5,7 +5,7 @@
 	<artifactId>WebserviceDemoCrud</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>WebserviceDemoCrud Maven Webapp</name>
+	<name>test</name>
 	<url>http://maven.apache.org</url>
 	<properties>
 		<spring.version>3.0.4.RELEASE</spring.version>
